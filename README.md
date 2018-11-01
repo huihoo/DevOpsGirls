@@ -6,39 +6,47 @@
 
 （另外，本课程内容也适合男同学，男生若有兴趣也可一起参与学习。）
 
-本课程的初衷和目标
+### 本课程的初衷和目标
 
-网络上对DevOpsGirls程序媛培养计划的声音
+帮助更多女性学习编程和IT技能，让她们在技术世界里找到更多自信与尊严！
 
-人生苦短，为什么我要用Python？
+### 网络上对DevOpsGirls程序媛培养计划的声音
 
-为什么学习Python和报名意向？
+大家对我们推出的DevOpsGirls程序媛培养计划还是[非常支持和认可的](https://twitter.com/huihoo/status/1000995716053979136)，我们会更加努力！
 
-2018 人工智能、大数据、Python从业者薪资表
+### 人生苦短，为什么我要用Python？
+
+随着机器学习的兴起，Python逐步成为了最受欢迎的语言。
+
+### 2018 人工智能、大数据、Python从业者薪资表
+
+了解薪资情况，现在正是进入人工智能领域学习就业/转业和学习Python的最佳时机。
+
+![python薪资](https://wiki.huihoo.com/images/5/56/Python-salary.jpeg)
 
 课程大纲和简介
 
 ## 第一阶段：Python入门篇
 
-第1课：Python历史、版本、安装
+[第1课：Python历史、版本、安装](class/python01.md)
 
-第2课：快速熟悉Python
+[第2课：快速熟悉Python](class/python02.md)
 
-第3课：数据类型（一）
+[第3课：数据类型（一）](class/python03.md)
 
-第4课：数据类型（二）
+[第4课：数据类型（二）](class/python04.md)
 
-第5课：条件
+[第5课：条件](class/python05.md)
 
-第6课：循环
+[第6课：循环](class/python06.md)
 
-第7课：文件、目录
+[第7课：文件、目录](class/python07.md)
 
-第8课：错误、异常
+[第8课：错误、异常](class/python08.md)
 
 ## 第二阶段：Python语言篇
 
-第9课：语法（Syntax）、语义（Semantics）、词法（Lexical）（一）
+[第9课：语法（Syntax）、语义（Semantics）、词法（Lexical）（一）](class/python09.md)
 
 第10课：语法（Syntax）、语义（Semantics）、词法（Lexical）（二）
 
