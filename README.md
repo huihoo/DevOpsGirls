@@ -28,25 +28,25 @@
 
 ## 第一阶段：Python入门篇
 
-[第1课：Python历史、版本、安装](class/python01.md)
+[第1课：Python历史、版本、安装](https://github.com/huihoo/DevOpsGirls/wiki/python01)
 
-[第2课：快速熟悉Python](class/python02.md)
+[第2课：快速熟悉Python](https://github.com/huihoo/DevOpsGirls/wiki/python02)
 
-[第3课：数据类型（一）](class/python03.md)
+[第3课：数据类型（一）](https://github.com/huihoo/DevOpsGirls/wiki/python03)
 
-[第4课：数据类型（二）](class/python04.md)
+[第4课：数据类型（二）](https://github.com/huihoo/DevOpsGirls/wiki/python04)
 
-[第5课：条件](class/python05.md)
+[第5课：条件](https://github.com/huihoo/DevOpsGirls/wiki/python05)
 
-[第6课：循环](class/python06.md)
+[第6课：循环](https://github.com/huihoo/DevOpsGirls/wiki/python06)
 
-[第7课：文件、目录](class/python07.md)
+[第7课：文件、目录](https://github.com/huihoo/DevOpsGirls/wiki/python07)
 
-[第8课：错误、异常](class/python08.md)
+[第8课：错误、异常](https://github.com/huihoo/DevOpsGirls/wiki/python08)
 
 ## 第二阶段：Python语言篇
 
-[第9课：语法（Syntax）、语义（Semantics）、词法（Lexical）（一）](class/python09.md)
+[第9课：语法（Syntax）、语义（Semantics）、词法（Lexical）（一）](https://github.com/huihoo/DevOpsGirls/wiki/python09)
 
 第10课：语法（Syntax）、语义（Semantics）、词法（Lexical）（二）
 
