@@ -1,6 +1,6 @@
 # DevOpsGirls
 
-一起设计和完善面向程序媛的Python课程。
+一起设计和完善Python程序媛课程。
 
 DevOpsGirls（Python程序媛）培养计划 （2018版）
 
@@ -66,7 +66,7 @@ DevOpsGirls（Python程序媛）培养计划 （2018版）
 
 [第18课：接口（Interface）](courses/python18.md)
 
-[第]19课：闭包（Closures）](courses/python19.md)
+[第19课：闭包（Closures）](courses/python19.md)
 
 [第20课：元编程（Metaprogramming）](courses/python20.md)
 

@@ -1,5 +1,4 @@
 
-***
 # 第2课：快速熟悉Python
 
 * 一行Python代码，Hello World
