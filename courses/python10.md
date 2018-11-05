@@ -6,7 +6,7 @@ Python的编译执行过程其实和Java和C#是类似的，也涉及字节码�
 
 这节课我们实践操作下如何把Python源文件.py编译成可执行文件的过程。
 
-注意：这里和本系列课程都使用Python3.6进行实验和学习，Python3和Python2两版本有非常大的差异，这里有些环节（pyc和pyo的生成过程）使用了Python2（Python2.7）。
+注意：这里和本系列课程都使用Python3.6进行实验和学习，Python3和Python2两版本有非常大的差异，这里有些环节（pyc和pyo的生成过程）使用了Python2（Python2.7）。
 
 创建helloworld.py文件
 ```
