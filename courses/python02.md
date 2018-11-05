@@ -90,4 +90,4 @@ isinstance(b, int)
 
 配图来自Twitter：@MacciattoS2
 
-![配图1](https://wiki.huihoo.com/images/8/80/Devopsgrils02.jpg)
+![配图2](https://wiki.huihoo.com/images/e/e8/Devopsgirls02.jpg)

@@ -38,4 +38,4 @@ Python的安装有多种方式，这里主要介绍两种：直接安装、Anaco
 
 在整个学习过程中若有任何疑问都可提出来交流，期待大家的积极参与。
 
-![配图1](https://wiki.huihoo.com/images/thumb/8/8d/Devopsgrils01.png/822px-Devopsgrils01.png)
+![配图1](https://wiki.huihoo.com/images/7/70/Devopsgirls01.png)

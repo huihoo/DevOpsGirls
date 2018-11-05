@@ -65,4 +65,4 @@ Python3的列表和元组很类似，区别是元组的元素不可变。
 
 配图来自：Twitter
 
-![配图03](https://wiki.huihoo.com/images/thumb/b/b9/Devopsgirls03.jpg/1280px-Devopsgirls03.jpg)
+![配图3](https://wiki.huihoo.com/images/thumb/b/b9/Devopsgirls03.jpg/1280px-Devopsgirls03.jpg)
