@@ -9,7 +9,7 @@
 ### 用普通类实现接口
 
 ### zope.interface
-此项目提供了Python对象接口的参考实现，大家可通过此项目扩展学习。
+此项目提供了Python对象接口的参考实现，大家可通过此项目扩展学习。
 
 https://pypi.org/project/zope.interface/
 
