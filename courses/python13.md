@@ -23,3 +23,6 @@ Python使用lambda来创建匿名函数，匿名就是不用像def那样定义�
 思考下def和lambda有哪些联系和不同？
 
 
+配图来自Twitter
+
+![配图13](https://wiki.huihoo.com/images/thumb/e/e8/Devopsgirls12.jpg/1280px-Devopsgirls12.jpg)
