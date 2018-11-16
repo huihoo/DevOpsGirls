@@ -58,7 +58,7 @@ DevOpsGirls（Python程序媛）培养计划 （2018版）
 
 [第14课：面向对象（Object orientation）（一）](courses/python14.md)
 
-[第15课：面向对象（Object orientation）（二）](courses/python159.md)
+[第15课：面向对象（Object orientation）（二）](courses/python15.md)
 
 [第16课：模块/库（Module/Library）（一）](courses/python16.md)
 
