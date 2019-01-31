@@ -82,7 +82,7 @@ DevOpsGirls（Python程序媛）培养计划 （2019版）
 
 [第25课：Django web框架概述](courses/python25.md)
 
-[第26课：入门 - 请求和响应（一）](courses/python26.md)
+[第26课：入门 - 请求和响应（一）](courses/python26.md)
 
 [第27课：入门 - 模型和管理页面（二）](courses/python27.md)
 
@@ -90,17 +90,17 @@ DevOpsGirls（Python程序媛）培养计划 （2019版）
 
 [第29课：入门 - 表单和通用视图（四）](courses/python29.md)
 
-[第30课：入门 - 测试（五）](courses/python30.md)
+[第30课：入门 - 测试（五）](courses/python30.md)
 
 [第31课：入门 - 静态文件（六）](courses/python31.md)
 
-[第32课：入门 - 自定义管理页面（七）](courses/python32.md)
+[第32课：入门 - 自定义管理页面（七）](courses/python32.md)
 
 [第33课：模型（一）](courses/python33.md)
 
 [第34课：模型（二）](courses/python34.md)
 
-[第35课：视图（一）](courses/python35.md)
+[第35课：视图（一）](courses/python35.md)
 
 [第36课：视图（二）](courses/python36.md)
 
@@ -120,7 +120,7 @@ DevOpsGirls（Python程序媛）培养计划 （2019版）
 
 [第43课：分页](courses/python43.md)
 
-[第44课：验证](courses/python44.md)
+[第44课：验证](courses/python44.md)
 
 [第45课：序列化](courses/python45.md)
 
@@ -137,7 +137,7 @@ DevOpsGirls（Python程序媛）培养计划 （2019版）
 
 ## 第五阶段：Python小结
 
-[第51课：知识回顾](courses/python46.md)
+[第51课：知识回顾](courses/python46.md)
 
 [第52课：难点强化](courses/python47.md)
 
