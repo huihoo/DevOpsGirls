@@ -137,11 +137,11 @@ DevOpsGirls（Python程序媛）培养计划 （2019版）
 
 ## 第五阶段：Python小结
 
-[第51课：知识回顾](courses/python46.md)
+[第51课：知识回顾](courses/python51.md)
 
-[第52课：难点强化](courses/python47.md)
+[第52课：难点强化](courses/python52.md)
 
-[第53课：Python面试](courses/python50.md)
+[第53课：Python面试](courses/python53.md)
 
 ## 许可方式 License
 
