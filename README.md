@@ -2,7 +2,7 @@
 
 一起设计和完善Python程序媛课程。
 
-DevOpsGirls（Python程序媛）培养计划 （2018版）
+DevOpsGirls（Python程序媛）培养计划 （2019版）
 
 （ps：本课程内容也适合男同学，男生若有兴趣也可一起参与学习和设计。）
 
@@ -78,63 +78,70 @@ DevOpsGirls（Python程序媛）培养计划 （2018版）
 
 [第24课：领域特定语言（Domain-specific language，DSL）](courses/python24.md)
 
-## 第三阶段：Python应用篇
+## 第三阶段：Django框架篇
 
-[第25课：Flask web框架（一）](courses/python25.md)
+[第25课：Django web框架概述](courses/python25.md)
 
-[第26课：Flask web框架（二）](courses/python26.md)
+[第26课：入门 - 请求和响应（一）](courses/python26.md)
 
-[第27课：使用PostgreSQL](courses/python27.md)
+[第27课：入门 - 模型和管理页面（二）](courses/python27.md)
 
-[第28课：Web爬虫：Scrapy（一）](courses/python28.md)
+[第28课：入门 - 视图和模板（三）](courses/python28.md)
 
-[第29课：Web爬虫：Scrapy（二）](courses/python29.md)
+[第29课：入门 - 表单和通用视图（四）](courses/python29.md)
 
-[第30课：NLTK自然语言处理（一）](courses/python30.md)
+[第30课：入门 - 测试（五）](courses/python30.md)
 
-[第31课：NLTK自然语言处理（二）](courses/python31.md)
+[第31课：入门 - 静态文件（六）](courses/python31.md)
 
-[第32课：Jupyter数据分析（一）](courses/python32.md)
+[第32课：入门 - 自定义管理页面（七）](courses/python32.md)
 
-[第33课：Jupyter数据分析（二）](courses/python33.md)
+[第33课：模型（一）](courses/python33.md)
 
-[第34课：Jupyter数据分析（三）](courses/python34.md)
+[第34课：模型（二）](courses/python34.md)
 
-[第35课：odoo电商平台（一）](courses/python35.md)
+[第35课：视图（一）](courses/python35.md)
 
-[第36课：odoo电商平台（二）](courses/python36.md)
+[第36课：视图（二）](courses/python36.md)
 
-[第37课：Python与区块链](courses/python37.md)
+[第37课：模板（一）](courses/python37.md)
 
-## 第四阶段：Python与数学
+[第38课：模板（二）](courses/python38.md)
 
-[第38课：随机数](courses/python38.md)
+[第39课：表单（一）](courses/python39.md)
 
-[第39课：求和](courses/python39.md)
+[第40课：表单（二）](courses/python40.md)
 
-[第40课：阶乘](courses/python40.md)
+## 第四阶段：Django常用工具和安全篇
 
-[第41课：九九乘法表](courses/python41.md)
+[第41课：认证](courses/python41.md)
 
-[第42课：最小公倍数和最大公约数](courses/python42.md)
+[第42课：会话](courses/python42.md)
 
-[第43课：质数](courses/python43.md)
+[第43课：分页](courses/python43.md)
 
-[第44课：斐波那契数列](courses/python44.md)
+[第44课：验证](courses/python44.md)
 
-[第45课：阿姆斯特朗数](courses/python45.md)
+[第45课：序列化](courses/python45.md)
 
-## 第五阶段：Python强化
+[第46课：缓存](courses/python46.md)
 
-[第46课：数据分析](courses/python46.md)
+[第47课：日志](courses/python47.md)
 
-[第47课：管理控制台](courses/python47.md)
+[第48课：安全概览](courses/python48.md)
 
-[第48课：微信小程序（一）](courses/python48.md)
+[第49课：登录加密](courses/python49.md)
 
-[第49课：微信小程序（二）](courses/python49.md)
+[第50课：安全中间件](courses/python50.md)
 
-[第50课：Python面试](courses/python50.md)
+
+## 第五阶段：Python小结
+
+[第51课：知识回顾](courses/python46.md)
+
+[第52课：难点强化](courses/python47.md)
+
+[第53课：Python面试](courses/python50.md)
 
 ## 许可方式 License
 

@@ -1,1 +1,1 @@
-# 第25课：Flask web框架（一）
+# 第25课：Django web框架概述
