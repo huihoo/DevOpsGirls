@@ -141,7 +141,9 @@ DevOpsGirls（Python程序媛）培养计划 （2019版）
 
 [第52课：难点强化](courses/python52.md)
 
-[第53课：Python面试](courses/python53.md)
+[第53课：Python进阶](courses/python53.md)
+
+[第54课：Python面试](courses/python54.md)
 
 ## 许可方式 License
 
