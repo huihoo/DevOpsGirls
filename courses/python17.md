@@ -26,7 +26,7 @@ A.python
 B.julia
 ```
 ### 对这个模块文件进行分解
-用mymodule目录来替换文件 mymodule.py，创建 a.py、b.py和__init__.py文件。
+用mymodule目录来替换文件 mymodule.py，创建 a.py、b.py和__init__.py文件。
 
 ```
 mymodule/
@@ -35,7 +35,7 @@ mymodule/
     b.py
 ```
 
-a.py文件内容
+a.py文件内容
 ```
 # a.py
 class A:
@@ -59,13 +59,12 @@ from .a import A
 from .b import B
 ```
 
-然后你也试试调用模块与函数。
+然后你也试试调用模块与函数。
 
-真正的模块化设计和开发可没这么简单，这里只是让大家先有一个基本的概念。
+真正的模块化设计和开发可没这么简单，这里只是让大家先有一个基本的概念。
 
 好吧，今天就先到这，可以放学了 :)
 
 配图来自Twitter：@chengr28
 
 ![配图17](https://wiki.huihoo.com/images/6/68/Devopsgirls17.jpg)
-
