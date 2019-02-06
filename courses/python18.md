@@ -9,7 +9,7 @@ Python的接口由抽象类和抽象方法去实现，接口不能被实例化�
 Python 使用 abc（Abstract Base Classes）模块可以轻松的定义抽象基类，抽象类的目的就是让别的类继承它并实现特定的抽象方法。
 
 ### 用抽象类和抽象方法实现接口
-1、定义抽象基类
+1、定义抽象基类
 ```
 from abc import ABCMeta,abstractmethod  
   
@@ -22,7 +22,7 @@ class interface(object):
     def rust(self):  
         pass 
 ```
-2、继承基类并实现具体的抽象方法
+2、继承基类并实现具体的抽象方法
 ```
 class ImplementationInterfacePython(interface):
     def __init__(self):      
@@ -40,7 +40,7 @@ class ImplementationInterfaceRust(interface):
     def rust(self):  
         print ("实现rust方法") 
 
->>> obj = ImplementationInterfacePython()
+>>> obj = ImplementationInterfacePython()
 这是接口实现
 >>> obj.python()
 实现python方法
