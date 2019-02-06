@@ -93,4 +93,4 @@ https://pypi.org/project/zope.interface/
 
 配图来自Twitter：@chengr28
 
-![配图17](https://wiki.huihoo.com/images/6/6e/Devopsgirls18.jpg)
+![配图18](https://wiki.huihoo.com/images/6/6e/Devopsgirls18.jpg)
