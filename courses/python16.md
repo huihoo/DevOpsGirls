@@ -34,6 +34,10 @@ mysite/
         admin/
             base_site.html
 ```
+你可以执行以下import语句引入
+* import mysite.polls.tests 
+* from mysite.polls import urls
+* import mysite.pools.views as views
 
 ### 命名空间（namespace）和作用域（scope）
 python最大特点也是最核心思想就是： 一切皆对象。
