@@ -58,7 +58,7 @@ https://github.com/faif/python-patterns
 这块内容有点多，以后单独深入展开。
 
 ### 参考
-*[Design Patterns](https://sourcemaking.com/design_patterns)
+* [Design Patterns](https://sourcemaking.com/design_patterns)
 
 配图来自Twitter：@chengr28
 
