@@ -2,8 +2,8 @@
 
 先回顾一下[第8课：错误、异常](python08.md)的内容
 
-### unittest
-unittest是Python用于单元测试的标准模块。
+### unittest
+unittest是Python用于单元测试的标准模块。
 
 先运行一个简单的单元测试，感受下：
 ```
@@ -19,7 +19,7 @@ unittest是Python用于单元测试的标准模块。
 ----------------------------------------------------------------------
 Ran 0 tests in 0.000s
 ```
-再来一个复杂点的单元测试，运行5个小测试：可忽略、标记、或按照预期运行失败。
+再来一个复杂点的单元测试，运行5个小测试：可忽略、标记、或按照预期运行失败。
 
 unittest模块中的装饰器可用来控制对指定测试方法的处理，如：skip、skipIf、skipUnless、expectedFailure等。
 
@@ -70,7 +70,7 @@ OK (skipped=2, expected failures=1)
 ### doctest
 doctest模块会搜索那些看起来像是python交互式会话中的代码片段，然后尝试执行并验证结果。
 
-先运行一个简单的doctext，感受下：
+运行一个简单的doctext，先感受下：
 ```
 >>> if __name__ == "__main__":
 ...     import doctest
@@ -78,7 +78,7 @@ doctest模块会搜索那些看起来像是python交互式会话中的代码片�
 ... 
 TestResults(failed=0, attempted=0)
 ```
-再来一个稍微复杂点的例子，创建一个doctestsample.py文件，有两个测试用例，包含以下内容：
+再来一个稍微复杂点的例子，创建一个doctestsample.py文件，有两个测试用例，包含以下内容：
 ```
 def add(a, b):
     """
@@ -92,7 +92,7 @@ if __name__=='__main__':
     import doctest
     doctest.testmod()
 ```
-
+
 运行这个例子：
 ```
 python -m doctest -v doctestsample.py #  -m 表示引用一个模块，-v 等价于 verbose=True
@@ -188,9 +188,9 @@ import mock
 3
 ```
 
-Mock这块内容会比较多，以后再深入展开。
+Mock这块内容会比较多，以后再深入展开。
 
-今天是大年初三，顺祝大家2019，新年快乐！
+今天是大年初三，顺祝大家2019，新年快乐！
 
 配图来自Twitter：@chengr28
 
