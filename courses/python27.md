@@ -1,4 +1,4 @@
-# 第27课：入门 - 模型和管理页面（二）
+# 第27课：入门 - 模型和管理后台（二）
 
 涉及到模型，就要使用到数据库。
 
@@ -40,7 +40,7 @@ Running migrations:
   Applying sessions.0001_initial... OK
 ```
 
-默认启用以下应用并创建相关数据库表，这些应用给常规项目提供方便：
+默认启用以下应用并创建相关数据库表，这些应用给常规项目提供方便：
 
 * django.contrib.admin -- 管理员站点， 你很快就会使用它。
 * django.contrib.auth -- 认证授权系统。
@@ -86,7 +86,7 @@ Migrations for 'polls':
     - Create model Question
     - Add field question to choice
 ```
-然后执行migrate自动执行数据库迁移并同步管理你的数据库结构。
+然后执行migrate自动执行数据库迁移并同步管理你的数据库结构。
 
 $ python manage.py sqlmigrate polls 0001
 ```
@@ -107,7 +107,7 @@ CREATE INDEX "polls_choice_question_id_c5b4b260" ON "polls_choice" ("question_id
 ALTER TABLE "polls_choice" ADD CONSTRAINT "polls_choice_question_id_c5b4b260_fk_polls_question_id" FOREIGN KEY ("question_id") REFERENCES "polls_question" ("id") DEFERRABLE INITIALLY DEFERRED;
 COMMIT;
 ```
-最后，再次运行 migrate 命令，在数据库里创建新定义的模型的数据表，这时就新建了这两张表。
+最后，再次运行 migrate 命令，在数据库里创建新定义的模型的数据表，这时就新建了这两张表。
 
 $ python manage.py migrate
 ```
@@ -121,7 +121,7 @@ Running migrations:
 * 运行 python manage.py makemigrations 为模型的改变生成迁移文件。
 * 运行 python manage.py migrate 来应用数据库迁移。
 
-### Django管理页面
+### Django管理后台
 Django会根据模型自动地创建后台界面。
 
 创建一个管理员账号：
