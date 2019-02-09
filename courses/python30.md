@@ -1,11 +1,11 @@
 # 第30课：入门 - 完善管理后台（五））
 
 ### 增加选项
-在之前的课程中，我们通过管理后台创建了三个问题，但它们都还没有选项，现在我们就把这些选项添加上。
+在之前的课程中，我们通过管理后台创建了三个问题，但它们都还没有选项，现在我们就把这些选项添加上。
 
 通过 admin.site.register(Question) 注册 Question 模型，Django 能够构建一个默认的表单用于展示。
 
-编辑 polls/admin.py，提供3个选项（Choice）字段：
+编辑 polls/admin.py，提供3个选项（Choice）字段：
 ```
 from django.contrib import admin
 from .models import Choice, Question
@@ -31,7 +31,7 @@ admin.site.register(Question, QuestionAdmin)
 
 运行下：$ python manage.py runserver
 
-通过管理后台：http://localhost:8000/admin 创建三个问题，每个问题的三个选择：
+通过管理后台：http://localhost:8000/admin 创建三个问题的选项，每个问题可有三个选项：
 
 可以这样创建：
 ```
@@ -54,7 +54,7 @@ admin.site.register(Question, QuestionAdmin)
 
 ![image30](images/class30-02.png)
 
-这个例子算是比较完整的跑起来了，管理后台可调整和完善的地方还有很多，你可以一点点去试试。
+这个例子算是比较完整的跑起来了，管理后台可调整和完善的地方还有很多，你可以一点点去试试。
 
 配图来自Twitter：@atikix
 
