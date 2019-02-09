@@ -1,7 +1,7 @@
 # 第29课：入门 - 表单和通用视图（四）
 
 ### 一个简单的表单
-编写 polls/templates/polls/detail.html，包含一个 HTML <form> 元素：
+编写 polls/templates/polls/detail.html，包含一个 HTML `<form>` 元素：
 
 在 Question 的每个 Choice 前添加一个单选按钮
 ```
@@ -62,7 +62,7 @@ def results(request, question_id):
 ```
 
 ### 使用通用视图
-使用通用视图系统，这样我们可以删除许多多余的代码。其实，这是代码重构的过程。
+使用通用视图系统，这样我们可以删除许多多余的代码。其实，这是代码重构的过程。
 
 先修改 polls/urls.py，把 <question_id> 改为 <pk>： 
 ```
