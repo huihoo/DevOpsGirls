@@ -1,7 +1,7 @@
 # 第28课：入门 - 视图和模板（三）
 
 ### 视图
-Django 中的视图的概念是一类具有相同功能和模板的网页的集合，如大家熟悉的博客会包含以下视图：
+Django 中的视图的概念是一类具有相同功能和模板的网页的集合，如大家熟悉的博客会包含以下视图：
 * 博客首页：展示最近的几条博客
 * 详情页
 * 评论
@@ -15,7 +15,7 @@ Django 中的视图的概念是一类具有相同功能和模板的网页的集�
 
 为了将 URL 和视图关联起来，Django 使用了 'URLconfs' 来配置，URLconf 将 URL模式（urlpatterns）映射到视图。
 
-现在我们往 polls/views.py 里添加以下新视图：
+现在我们往 polls/views.py 里添加以下新视图：
 ```
 def detail(request, question_id):
     return HttpResponse("你看到的问题是 %s." % question_id)
@@ -77,14 +77,14 @@ def index(request):
 
 $ python manage.py runserver
 
-打开 http://localhost:8000/admin/ 添加几个问题：
+打开 http://localhost:8000/admin/ 添加几个问题：
 * 问题一
 * 问题二
 * 问题三
 
 再打开 http://localhost:8000/polls/ 你应该可以看见刚创建的三个问题 :)
 
-这样，我们就初步学习了视图创建和模版使用的基础知识了。
+这样，我们就初步学习了视图创建和模版使用的基础知识了。
 
 配图来自Twitter：@atikix
 
