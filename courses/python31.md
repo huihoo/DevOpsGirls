@@ -17,7 +17,7 @@ li a {
 ```
 
 ### 加个背景
-将图片放在 polls/static/polls/images/ 目录下， 
+将图片放在 polls/static/polls/images/ 目录下， 
 
 然后在样式表 polls/static/polls/style.css 中添加：
 ```
