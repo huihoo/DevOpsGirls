@@ -84,17 +84,17 @@ DevOpsGirls（Python程序媛）培养计划 （2019版）
 
 [第26课：入门 - 请求和响应（一）](courses/python26.md)
 
-[第27课：入门 - 模型和管理页面（二）](courses/python27.md)
+[第27课：入门 - 模型和管理后台（二）](courses/python27.md)
 
 [第28课：入门 - 视图和模板（三）](courses/python28.md)
 
 [第29课：入门 - 表单和通用视图（四）](courses/python29.md)
 
-[第30课：入门 - 测试（五）](courses/python30.md)
+[第30课：入门 - 完善管理后台（五）](courses/python30.md)
 
-[第31课：入门 - 静态文件（六）](courses/python31.md)
+[第31课：入门 - 样式风格（六）](courses/python31.md)
 
-[第32课：入门 - 自定义管理页面（七）](courses/python32.md)
+[第32课：入门 - 测试（七）](courses/python32.md)
 
 [第33课：模型（一）](courses/python33.md)
 
