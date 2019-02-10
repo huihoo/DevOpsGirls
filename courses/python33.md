@@ -77,6 +77,15 @@ Installed 2 object(s) from 1 fixture(s)
 [(1, 'Allen', 'Long'), (2, 'Peter', 'Chen')]
 ```
 
+$ python manage.py shell 
+```
+>>> from polls.models import Person
+>>> Person.objects.count()
+2
+>>> Person.objects.all()
+<QuerySet [<Person: Person object (1)>, <Person: Person object (2)>]>
+```
+
 配图来自Twitter：@kagachi_SK
 
 ![配图33](https://wiki.huihoo.com/images/f/f0/Devopsgirls33.jpg)
