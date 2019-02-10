@@ -20,23 +20,23 @@ Django 默认的事务行为是自动提交。
 
 工作原理：将每个HTTP请求封装在一个事务中，配置中的参数 ATOMIC_REQUESTS 设置为 True（默认为 False）。在调用试图方法前，Django 先生成一个事务。如果响应能正常生成，Django 会提交该事务。而如果视图出现异常，Django 则会回滚该事务。
 
-你还可以在视图代码中执行子事务，会使用 atomic。
+你还可以在视图代码中执行子事务，会使用 atomic。
 
 先了解这些概念，以后再深入这块。
 
 ### 迁移
-Web应用的开发就是一个持续的过程，其数据库表结构也处于不断增删改的迭代过程中，一套完整的数据库维护机制显得非常重要，Django 为此提供了数据库迁移功能很好的应对这项工作。
+Web应用的开发就是一个持续的过程，其数据库表结构也处于不断增删改的迭代过程中，一套完整的数据库维护机制显得非常重要，Django 为此提供了数据库迁移功能很好的应对这项工作。
 
 主要的命令有：
 ```
 $ python manage.py makemigrations polls # 生成迁移文件，如：0001_initial.py
-$ python manage.py sqlmigrate polls 0001 # 生成SQL，可看看是不是自己想要的结果
+$ python manage.py sqlmigrate polls 0001 # 生成SQL，可看看是不是自己想要的结果
 $ python manage.py migrate # 执行迁移，完成创建新表等任务
 ```
 
 ### 数据库函数
-Django提供了以下几类数据库函数：
-* 比较和转换函数：如Cast、Coalesce、Greatest、Least
+Django提供了以下几类数据库函数：
+* 比较和转换函数：如Cast、Coalesce、Greatest、Least
 * 日期函数：如Now ...
 * 文本函数：如Length、Lower、Upper ...
 * Window函数：如Rank ...
