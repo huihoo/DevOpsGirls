@@ -64,7 +64,7 @@ def results(request, question_id):
 ### 使用通用视图
 使用通用视图系统，这样我们可以删除许多多余的代码。其实，这是代码重构的过程。
 
-先修改 polls/urls.py，把 <question_id> 改为 <pk>： 
+先修改 polls/urls.py，把 `<question_id>` 改为 `<pk>`： 
 ```
 from django.urls import path
 
