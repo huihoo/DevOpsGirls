@@ -8,3 +8,4 @@ DevOpsGirls（Python程序媛）也参考和引用了以下资料，大家可进
 * [Python 3 教程](http://www.runoob.com/python3/python3-tutorial.html)
 * [轻量级Django](https://www.amazon.cn/dp/B01M4S72G0/)
 * [Django教程](https://www.w3cschool.cn/django/)
+* [Django Girls 教程](https://tutorial.djangogirls.org/zh/)
