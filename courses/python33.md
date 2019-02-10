@@ -7,7 +7,7 @@
 * Django 自动生成访问数据库的 API
 
 ### 创建模型
-为了方便，我们直接使用之前创建的polls应用。
+为了方便，我们直接使用之前创建的polls应用。
 
 定义了一个 Person 模型, 包含 first_name 和 last_name，将以下内容加入 mysite/polls/models.py:
 ```
@@ -25,7 +25,7 @@ Migrations for 'polls':
 
 3、迁移：$ python manage.py migrate 
 
-这时，这个模型会自动在数据库中生成一张新表：
+这时，这个模型会自动在数据库中生成一张新表：
 ```
 CREATE TABLE polls_person (
     "id" serial NOT NULL PRIMARY KEY,
@@ -35,7 +35,7 @@ CREATE TABLE polls_person (
 ```
 
 ### 初始化数据
-数据库表创建好后，可通过 python manage.py loaddata `<fixturename>` 的方式初始化数据库，数据文件格式可以是 JSON 或 YAML。
+数据库表创建好后，可通过 python manage.py loaddata `<fixturename>` 的方式初始化数据库，数据文件格式可以是 JSON 或 YAML。
 
 创建 polls-person.json 文件：
 ```
