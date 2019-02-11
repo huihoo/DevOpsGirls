@@ -1,17 +1,21 @@
 # 第38课：模板（二）
 
 ### Django template language（DTL）
-了解一些基本语法，这些标签和过滤器可以是内置的，也可以自定义的：
+了解一些基本语法，这些标签和过滤器可以是内置的，也可以自定义的：
 * 变量(variable)：{{ and }}
+
 My first name is {{ first_name }}. My last name is {{ last_name }}.
 
 * 标签(Tags)：{% and %} 
+
 {% if user.is_authenticated %}Hello, {{ user.username }}.{% endif %}
 
 * 过滤器(Filters)：{{ | }}
+
 {{ django|title }}
 
 * 注释(Comments)：{#  and #}
+
 {# this won't be rendered #}
 
 ### 自定义标签
