@@ -1,5 +1,5 @@
 # 第37课：模板（一）
-模板提供了一个对设计师友好的语法用于渲染向用户呈现的信息，这里涉及如何使用语法以及如何扩展的内容。
+模板提供了一个对设计师友好的语法用于渲染向用户呈现的信息，这里涉及如何使用语法以及如何扩展的内容。
 
 Django 项目可以配置一个或多个模板引擎，Django后端内置一个自己的模板系统：Django template language（DTL） `</ref/templates/language>` 。当然，也可以使用第三方模版引擎，如：jinja2
 
@@ -56,7 +56,7 @@ TEMPLATES = [
         ],
     },
 ```
-## 简单使用
+### 简单使用
 为了减少加载和渲染模板的重复性，Django 提供了一个自动处理的快捷函数：render_to_string()
 ```
 from django.template.loader import render_to_string
