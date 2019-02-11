@@ -3,7 +3,7 @@
 ### 简介
 Django 提供了一些帮助你管理分页数据，这些类在 django/core/paginator.py 中定义
 
-### 例子
+### 例子
 ```
 >>> from django.core.paginator import Paginator
 >>> objects = ['Pyton', 'Go', 'C', 'C++', 'C#']
