@@ -9,6 +9,7 @@ DevOpsGirls（Python程序媛）也参考和引用了以下资料，大家可进
 * [轻量级Django](https://www.amazon.cn/dp/B01M4S72G0/)
 * [Django教程](https://www.w3cschool.cn/django/)
 * [Django Girls 教程](https://tutorial.djangogirls.org/zh/)
+* [基于 Python3.5 和 Django 1.10 的 Django Blog 项目](https://github.com/zmrenwu/django-blog-tutorial)
 
 配图来自Twitter：@tomo_3
 
