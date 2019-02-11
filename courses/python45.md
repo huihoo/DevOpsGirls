@@ -14,7 +14,7 @@ Django 支持的序列化格式有：
 >>> with open("person.xml", "w") as out:
 ...     xml_serializer.serialize(Person.objects.all(), stream=out)
 ```
-这时在目录下生成了 person.xml，内容如下：
+这时在目录下生成了 person.xml，内容如下：
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <django-objects version="1.0">
@@ -26,13 +26,13 @@ Django 支持的序列化格式有：
     </object>
 </django-objects>
 ```
-试试 JSON 格式：
+试试 JSON 格式：
 ```
 >>> from django.core.serializers import serialize
 >>> with open("person.json", "w") as out:
 ...     serialize('json', Person.objects.all(), stream=out)
 ```
-目录下生成了 person.json，内容如下：
+目录下生成了 person.json，内容如下：
 ```
 [
     {
