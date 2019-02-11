@@ -6,3 +6,6 @@
 
 这里，我们就使用Buildbot来做持续服务器。
 
+配图来自Twitter：@neku_draw
+
+![配图22](https://wiki.huihoo.com/images/thumb/6/69/Devopsgirls22.jpg/713px-Devopsgirls22.jpg)

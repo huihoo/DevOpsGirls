@@ -47,6 +47,6 @@ lambda 参数 : 操作(参数)
 
 思考下def和lambda有哪些联系和不同？
 
-配图来自Twitter
+配图来自Twitter：@neku_draw
 
-![配图13](https://wiki.huihoo.com/images/thumb/e/e8/Devopsgirls12.jpg/1280px-Devopsgirls12.jpg)
+![配图13](https://wiki.huihoo.com/images/thumb/7/77/Devopsgirls13.png/717px-Devopsgirls13.png)
