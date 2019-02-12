@@ -1,9 +1,9 @@
 # 第46课：缓存
 
 ### 简介
-对于动态 Web 网站，每次用户发起的请求，服务器都会计算，从数据库查询、业务逻辑、页面渲染等，这些都会消费计算资源。而缓存就是保存这些计算结果，不用每一次都重新计算，这样就极大的减少了服务端的开销和压力，也会带来性能和用户体验的提升。
+对于动态 Web 网站，每次用户发起的请求，服务器都会计算，从数据库查询、业务逻辑、页面渲染等，这些都会消费计算资源。而缓存就是保存这些计算结果，不用每一次都重新计算，这样就极大的减少了服务端的开销和压力，也会带来性能和用户体验的提升。
 
-Web 应用涉及不同层面的缓存：数据库、文件系统、内存等。
+Web 应用涉及不同层面的缓存：数据库、文件系统、内存等。
 * Memcached
 * Database caching
 * Filesystem caching
@@ -11,7 +11,7 @@ Web 应用涉及不同层面的缓存：数据库、文件系统、内存等。
 * Dummy caching (for development)
 
 ### 缓存API
-通过 Django 提供的缓存 API，你可以任意粒度缓存各种 Python 对象：字符串、字典、模型对象列表等。
+通过 Django 提供的缓存 API，你可以任意粒度缓存各种 Python 对象：字符串、字典、模型对象列表等。
 
 ```
 >>> from django.core.cache import cache
@@ -26,7 +26,7 @@ Web 应用涉及不同层面的缓存：数据库、文件系统、内存等。
 ### Memcached
 Memcached 是 Django 原生支持的最快，最有效的缓存类型，它是一个完全基于内存的缓存服务器，所有缓存的数据都存储在内存中，Facebook、Wikipedia 等大型网站使用它来减少数据库访问并显着提高网站性能。
 
-安装完 Memcached 后，你需要安装两个最常见的 Python 包：[python-memcached](https://pypi.org/project/python-memcached/)、pylibmc(https://pypi.org/project/pylibmc/)。
+安装完 Memcached 后，你需要安装两个最常见的 Python 包：[python-memcached](https://pypi.org/project/python-memcached/)、[pylibmc](https://pypi.org/project/pylibmc/)。
 
 Memcached 有很多的配置方案，这是本地缓存的例子，使用了 python-memcached 绑定。
 ```
@@ -76,7 +76,7 @@ CACHES = {
 }
 ```
 ### 虚拟缓存
-虚拟缓存，实际上并不是真实的缓存，它只是实现了缓存接口而不做任何事情，常用于开发/测试中不使用缓存的情况。
+虚拟缓存，实际上并不是真实的缓存，它只是实现了缓存接口而不做任何事情，常用于开发/测试中不使用缓存的情况。
 
 ```
 CACHES = {
