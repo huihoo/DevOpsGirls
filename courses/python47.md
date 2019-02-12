@@ -19,7 +19,7 @@ logger 是日志系统的入口。每个 logger 都是命名的 bucket， 消息
 * logger.error()
 * logger.critical()
 
-此外，你还可以：
+此外，你还可以：
 * logger.log()：手动输出一条指定日志级别的日志消息。
 * logger.exception()：创建一个包含当前异常堆栈帧的 ERROR 级别日志消息。
 
