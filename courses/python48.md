@@ -2,10 +2,10 @@
 
 在 Web 应用的发展中，安全是最重要主题，Django 提供了多种保护手段和机制。
 
-本节课概述 Django 安全功能，以及 Django 驱动网站的安全建议。
+本节课概述 Django 安全功能，以及 Django 驱动网站的安全建议。
 
 ### XSS 保护
-Cross site scripting (XSS) 攻击允许恶意用户将客户端脚本注入其他用户的浏览器中，这通常通过让用户单击链接来实现，该链接将导致攻击者的JavaScript由用户的浏览器执行。
+Cross site scripting (XSS) 攻击允许恶意用户将客户端脚本注入其他用户的浏览器中，这通常通过让用户单击链接来实现，该链接将导致攻击者的JavaScript由用户的浏览器执行。
 
 使用 Django 模板可以保护你免受大多数XSS攻击，存在一定局限性。
 
@@ -32,7 +32,7 @@ Django 包含 X-Frame-Options 中间件形式的点击劫持保护，在支持�
 ### Header 验证
 这个主要是防虚假主机的，因为即使安全配置了的 Web 服务器也容易受到虚假主机 Headers 的影响，Django 会根据 django.http.HttpRequest.get_host() 方法中的 ALLOWED_HOSTS 设置验证主机 Headers。
 
-### Session 安全
+### Session 安全
 这块是有关 [django.contrib.sessions](python42.md) 的主题。
 
 配图来自Twitter：@tomo_3
