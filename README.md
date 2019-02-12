@@ -130,7 +130,7 @@ DevOpsGirls（Python程序媛）培养计划 （2019版）
 
 [第48课：安全概览](courses/python48.md)
 
-[第49课：登录加密](courses/python49.md)
+[第49课：加密签名](courses/python49.md)
 
 [第50课：安全中间件](courses/python50.md)
 
