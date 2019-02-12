@@ -28,7 +28,7 @@
 * 13、RedirectFallbackMiddleware
 
 ### SecurityMiddleware
-这里主要介绍 django.middleware.security.SecurityMiddleware  安全中间件
+这里主要介绍 django.middleware.security.SecurityMiddleware 安全中间件
 
 它在 settings.py 定义：
 ```
