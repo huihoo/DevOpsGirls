@@ -6,7 +6,7 @@ DevOpsGirls（Python程序媛）也参考和引用了以下资料，大家可进
 * [《Django 中文文档》](https://docs.huihoo.com/django/2.1-zh-cn/index.html)
 * [《Python Web开发实践》](https://www.amazon.cn/dp/B01L8NVIC6/)
 * [Python 3 教程](http://www.runoob.com/python3/python3-tutorial.html)
-* [轻量级Django](https://www.amazon.cn/dp/B01M4S72G0/)
+* [轻量级Django](https://www.amazon.cn/dp/B01M4S72G0/)
 * [Django教程](https://www.w3cschool.cn/django/)
 * [Django Girls 教程](https://tutorial.djangogirls.org/zh/)
 * [基于 Python3.5 和 Django 1.10 的 Django Blog 项目](https://github.com/zmrenwu/django-blog-tutorial)
