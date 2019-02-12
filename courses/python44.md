@@ -1,4 +1,4 @@
-# 第44课：验证
+# 第44课：验证
 
 配图来自Twitter：@ukiukisoda
 
