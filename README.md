@@ -154,7 +154,7 @@ courses和slides采用CC
 src采用Apache v2
  
 ## 赞助与支持
-若这份教程对你有帮助，你可以通过赞助的方式鼓励我们并成为灰狐会员。
+若这份教程对你有帮助，你可以通过赞助的方式鼓励我们并成为灰狐会员。
 
 ![灰狐会员](http://wiki.huihoo.com/images/2/25/Zsxq.jpg)
 
