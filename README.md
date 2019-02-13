@@ -152,10 +152,9 @@ courses和slides采用CC
 [![CC](http://wiki.huihoo.com/images/4/4e/CC-BY-SA_3.0-88x31.png)](http://wiki.huihoo.com/wiki/CC-BY-SA_3.0)
 
 src采用Apache v2
-
  
 ## 赞助与支持
-本教程为免费教程，若需要得到更多技术支持，可通过赞助我们的方式获得。
+若这份教程对你有帮助，你可以通过赞助的方式鼓励我们并成为灰狐会员。
 
 ![灰狐会员](http://wiki.huihoo.com/images/2/25/Zsxq.jpg)
 
