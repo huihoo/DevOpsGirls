@@ -8,7 +8,9 @@
 
 Buildbot 是一个软件项目编译、测试的自动化系统，它的架构如下：
 
-![buildbot](images/class22-05.png) 主要包含：Master、Worker
+![buildbot](images/class22-05.png) 
+
+主要包含：Master、Worker
 
 ### Python Buildbot
 Python 也采用 Buildbot 作为自己的构建、测试和持续集成的基础设施，我们先[感受下](https://www.python.org/dev/buildbot/)。
