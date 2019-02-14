@@ -4,6 +4,10 @@
 
 中间件是可调用的，它接受请求并返回响应，就像视图一样。
 
+![middleware](https://docs.djangoproject.com/en/1.9/_images/middleware.svg) 
+
+注意：此图来自 Django 1.9 官方文档，之后版本已没有此图，仅供大家参考，有一个整体思路。
+
 中间件是 Django 请求/响应处理的钩子框架。它是一个轻量级的、低层的插件系统，用于全局改变 Django 的输入或输出。
 
 每个中间件组件负责做一些特定的功能。如，AuthenticationMiddleware 中间件 ，它使用会话将用户与请求关联起来。
