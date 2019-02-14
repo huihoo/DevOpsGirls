@@ -12,7 +12,7 @@ DevOpsGirls（Python程序媛）培养计划 （2019版）
 
 ### 网络上对DevOpsGirls程序媛培养计划的声音
 
-大家对我们推出的DevOpsGirls程序媛培养计划还是[非常支持和认可的](https://twitter.com/huihoo/status/1000995716053979136)，我们会更加努力！
+大家对我们推出的DevOpsGirls程序媛培养计划还是[支持和认可的](https://www.v2ex.com/t/534240)，我们会更加努力！
 
 ### 人生苦短，为什么我要用Python？
 
@@ -112,7 +112,7 @@ DevOpsGirls（Python程序媛）培养计划 （2019版）
 
 [第40课：表单（二）](courses/python40.md)
 
-## 第四阶段：Django常用工具和安全篇
+## 第四阶段：Django常用功能和安全篇
 
 [第41课：认证](courses/python41.md)
 
@@ -154,7 +154,7 @@ courses和slides采用CC
 src采用Apache v2
  
 ## 赞助与支持
-若这份教程对你有帮助，你可以通过赞助的方式鼓励我们并成为灰狐会员。
+若这份教程对你有帮助，你可以通过赞助的方式鼓励我们并成为灰狐的朋友们。
 
 ![灰狐会员](http://wiki.huihoo.com/images/2/25/Zsxq.jpg)
 

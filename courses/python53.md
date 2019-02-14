@@ -1,4 +1,12 @@
 # 第53课：Python进阶
+
+### 项目
+一些网友推荐的项目形式：
+* 教女孩纸如何扒帅哥照片，以女孩纸兴趣引导教学；
+* 爬虫、姨妈钟；
+...
+
+### 参考资料
 DevOpsGirls（Python程序媛）也参考和引用了以下资料，大家可进一步深入：
 
 * [《Python进阶》](https://github.com/eastlakeside/interpy-zh)是《Intermediate Python》的中文译本。
