@@ -27,7 +27,7 @@ True
 ```
 
 ### 在视图中使用Paginator
-为方便，直接使用 Django 自带的 User 模型（不需要自己创建，也没有迁移过程），先通过 Admin 后台增加一些测试用户，
+为方便，直接使用 Django 自带的 User 模型（不需要自己创建，也没有迁移过程），先通过 Admin 后台增加一些测试用户。
 
 ![class43-02](images/class43-02.png)
 
