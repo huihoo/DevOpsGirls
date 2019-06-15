@@ -20,7 +20,7 @@ miles   = 100.0   # 浮点型变量
 a, b = 1, 2 # 多个变量赋值
 name = “Python”   # 字符串
 
-true, false # 布尔值
+True, False # 布尔值
 
 print (counter)
 print (miles)
