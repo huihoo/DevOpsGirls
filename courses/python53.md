@@ -9,6 +9,7 @@
 ### 参考资料
 DevOpsGirls（Python程序媛）也参考和引用了以下资料，大家可进一步深入：
 
+* [Python Cheat Sheet（Python速查表）](https://github.com/crazyguitar/pysheeet) 帮助查阅和熟悉Python3代码和各个细节知识点。
 * [《Python进阶》](https://github.com/eastlakeside/interpy-zh)是《Intermediate Python》的中文译本。
 * [《Python Cookbook》 3rd 中文版](https://github.com/yidao620c/python3-cookbook)
 * [《Django 中文文档》](https://docs.huihoo.com/django/2.1-zh-cn/index.html)
